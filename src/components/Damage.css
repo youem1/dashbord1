@@ -1,0 +1,20 @@
+table {
+    margin: 10px auto;
+}
+
+table,
+tr,
+th {
+    border: #d1d5db solid 2pt;
+    text-align: center;
+}
+
+.Damage {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    -webkit-transform: translate(-50%);
+    -moz-transform: translate(-50%);
+    -ms-transform: translate(-50%);
+    -o-transform: translate(-50%);
+}

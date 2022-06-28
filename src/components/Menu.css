@@ -1,0 +1,19 @@
+.Menu div span {
+    cursor: pointer;
+}
+
+.closeBtn {
+    position: absolute;
+    top: 20px;
+    right: 5px;
+    width: 30px;
+    height: 30px;
+    background-image: url(./media/close\(1\).png);
+    background-position: center;
+    background-size: cover;
+    cursor: pointer;
+}
+
+.Menu {
+    z-index: 2;
+}

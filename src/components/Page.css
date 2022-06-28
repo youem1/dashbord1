@@ -1,0 +1,43 @@
+.comment_Header {
+    background-image: url('./media/speech-bubble.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.count_comment {
+    background-color: #0a5efc;
+    margin-right: -6px;
+    margin-top: -6px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.notification_Header {
+    background-image: url('./media/bell.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.count_notification {
+    background-color: #5a911c;
+    margin-right: -6px;
+    margin-top: -6px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.hamburgerMenu {
+    width: 50px;
+    height: 50px;
+    /* background-color: #5a911c; */
+    background-image: url(./media/hamburger.png);
+    background-position: center;
+    background-size: cover;
+    cursor: pointer;
+}
